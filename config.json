@@ -3,6 +3,6 @@
     "localPort": 1080,
     "serverAddress": "127.0.0.1",
     "serverPort": 8388,
-    "password": "shadowsocks-over-websocket",
+    "password": "spark-training",
     "method": "aes-256-cfb"
 }
