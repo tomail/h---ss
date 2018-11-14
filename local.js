@@ -19,7 +19,7 @@ var relay = new TCPRelay({
     localPort: local.localPort || 1080,
     serverAddress: local.serverAddress || '127.0.0.1',
     serverPort: local.serverPort || 8388,
-    password: local.password || 'shadowsocks-over-websocket',
+    password: local.password || 'spark-training',
     method: local.method || 'aes-256-cfb'
 }, true);
 relay.setLogLevel(local.logLevel);
