@@ -1,5 +1,5 @@
 {
-  "name": "shadowsocks-over-websocket",
+  "name": "spark-training",
   "version": "0.1.8",
   "description": "A fast tunnel proxy that helps you bypass firewalls",
   "main": "tcprelay.js",
@@ -11,17 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VincentChanX/shadowsocks-over-websocket.git"
+    "url": "git+https://github.com/tomail/spark-training.git"
   },
   "keywords": [
     "proxy"
   ],
-  "author": "vincentchan <hci.vincentchan@gmail.com> (https://github.com/VincentChanX)",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/VincentChanX/shadowsocks-over-websocket/issues"
-  },
-  "homepage": "https://github.com/VincentChanX/shadowsocks-over-websocket#readme",
   "dependencies": {
     "bufferutil": "^3.0.0",
     "commander": "^2.9.0",
